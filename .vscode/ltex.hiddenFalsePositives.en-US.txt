@@ -1,0 +1,1 @@
+{"rule":"ADVERB_OR_HYPHENATED_ADJECTIVE","sentence":"^\\QHere are some important supervised learning algorithms:\nk-Nearest Neighbors\nLinear Regression\nLogistic Regression\nSupport Vector Machine\nDecision Trees & Random Forests\nNeural Networks\\E$"}

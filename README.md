@@ -2,7 +2,7 @@
 
 ## Working Environment
 
-To create a python virtrual environment
+To recreate the working environment for this repo:
 ```
 # Create a python virtrual environment
 python -m venv venv
@@ -19,6 +19,3 @@ pip freeze > requirements.txt
 # Rebuild the working environment
 pip install -r requirements.txt
 ```
-
-
-
